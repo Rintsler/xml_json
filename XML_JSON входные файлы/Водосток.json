@@ -1,0 +1,24 @@
+{
+  "jsonrpc": "2.0",
+  "method": "fpay",
+  "Params": {
+    "session": {
+      "login": "1mbank",
+      "pass": "33333"
+    },
+    "data": {
+      "account": "999999-1",
+      "counters": [
+        {
+          "type": 1,
+          "value": 235
+        },
+        {
+          "type": 2,
+          "value": 324
+        }
+      ]
+    }
+  },
+  "id": "32303137-3032-3237-3037-3135343423421"
+}

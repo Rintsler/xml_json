@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+  <c n="ses">
+    <a n="log">1mbank</a>
+    <a n="pas">11111</a>
+    <a n="acc">99995521</a>
+  </c>
+  <s>
+    <c n="cnt">
+      <a n="typ">1</a>
+      <a n="val">323.43</a>
+    </c>
+    <c n="cnt">
+      <a n="typ">2</a>
+      <a n="val">344.25</a>
+    </c>
+
+    </s>
+      <c n="sum">2224.22</c>
+</xml>
